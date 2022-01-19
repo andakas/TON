@@ -1,10 +1,11 @@
+#!/bin/sh
 
 # system install other import packages
 
 apt-get install libpci3
 apt-get install libjansson-dev
 apt-get install libuv1-dev
-
+apt-get install libmicrohttpd-dev 
 
 
 # system update
